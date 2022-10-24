@@ -47,7 +47,6 @@ jobs:
         with:
           name: Test results (${{ matrix.testMode }})
           path: ${{ steps.testRunner.outputs.artifactsPath }}
-
   buildWebGL:
     needs: testRunner
     name: Build for WebGL 🖥️
@@ -91,7 +90,6 @@ jobs:
         with:
           name: build-WebGL
           path: build/WebGL
-
   buildWindows:
     needs: testRunner
     name: Build for Windows 🖥️
@@ -135,7 +133,6 @@ jobs:
         with:
           name: build-StandaloneWindows64
           path: build/StandaloneWindows64
-
   buildAndroid:
     needs: testRunner
     name: Build for Android 📱
@@ -179,8 +176,6 @@ jobs:
         with:
           name: build-Android
           path: build/Android
-
-
   deployPages:
     needs: buildWebGL
     name: Deploy to Github Pages 🚀

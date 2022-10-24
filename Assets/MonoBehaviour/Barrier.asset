@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605011bcc91b4d041a4c220fe13dae10, type: 3}
+  m_Name: Barrier
+  m_EditorClassIdentifier:
+  _displayName: Impact Effect
+  _icon: {fileID: 0}
+  _description: Description.
+  _tags:
+    _tags: []
+  _display: 1
+  _persistent: 1
+  _duration: 30
+  _periodDuration: 0
+  _maximumQuantity: 1
+  _barrierEffect: {fileID: 1780616700106016, guid: d47572f8fd1ee8544b1f8c0b84458241, type: 2}
+  _invulnerableEffect:
+    _behaviour: {fileID: 11400000, guid: d25c3ee526a376b488b8caec4e83accc, type: 2}
+    _magnitude: 0
+    _quantity: 0
+    _duration: 5
+  _damageEffectName: Damage
+  _recoilAngle: 65
+  _recoilSpeed: 17.5

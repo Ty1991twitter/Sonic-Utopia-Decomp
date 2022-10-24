@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767215568ad21f646a0e0152ba4b68ed, type: 3}
+  m_Name: Ring Defense
+  m_EditorClassIdentifier:
+  _displayName: Ring Defense
+  _icon: {fileID: 0}
+  _description: Drop your rings to avoid damage.
+  _tags:
+    _tags: []
+  _blockedByTags:
+    _tags: []
+  _cancelWithTags:
+    _tags: []
+  _requiredTags:
+    _tags: []
+  _vitalRequirements: []
+  _itemRequirements: []
+  _groundRequirement: 0
+  _speedRequirement: 0
+  _speedRequirementValue: 0
+  _canCancel: 0
+  _canInterrupt: 0
+  _invulnerableEffect:
+    _behaviour: {fileID: 11400000, guid: d25c3ee526a376b488b8caec4e83accc, type: 2}
+    _magnitude: 0
+    _quantity: 0
+    _duration: 5
+  _damageEffectName: Damage
+  _recoilAngle: 65
+  _recoilSpeed: 20
+  _rings: {fileID: 11400000, guid: 7613434fc9da1a245b9128e786db89ba, type: 2}
+  _ringDropper: {fileID: 114726267452453687, guid: 583eae17839304741a7fcc0783cd4833, type: 2}
+  _ringDropperOffset: {x: 0, y: 0.5, z: 0}
+  _maxRingsDropped: 64

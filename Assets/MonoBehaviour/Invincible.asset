@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b64769037a8d9342ae6ca59b9123e09, type: 3}
+  m_Name: Invincible
+  m_EditorClassIdentifier:
+  _displayName: Invincibility
+  _icon: {fileID: 0}
+  _description: Description.
+  _tags:
+    _tags: []
+  _display: 1
+  _persistent: 0
+  _duration: 15
+  _periodDuration: 0
+  _maximumQuantity: 0
+  _invincibilityEffect: {fileID: 1907540677988739, guid: f85522011604d984d91bcdf66c10cdbf, type: 2}
+  _impact:
+    _requiredTags:
+      _tags: []
+    _blockedByTags:
+      _tags: []
+    _effects:
+    - _behaviour: {fileID: 11400000, guid: ab4a890ff93f461418f3eeee2f85de25, type: 2}
+      _magnitude: 1000
+      _quantity: 0
+      _duration: 0
+  _impactDetectionBuffer: 2

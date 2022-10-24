@@ -1,0 +1,1482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: motobug rig|Motobug Move
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.0011776568, y: 0.92743164, z: 0.3238273, w: 0.1870963}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0.0019066104, y: 0.19034384, z: -0.3768235, w: -0.30334172}
+        tangentMode: 1
+      - time: 0.033333335
+        value: {x: -0.0010472372, y: 0.9399391, z: 0.29804677, w: 0.16637765}
+        inSlope: {x: 0.0074779303, y: 0.66574746, z: -1.4827044, w: -1.1879761}
+        outSlope: {x: 0.00747793, y: 0.66574746, z: -1.4827044, w: -1.1879761}
+        tangentMode: 1
+      - time: 0.083333336
+        value: {x: -0.00059603376, y: 0.97353554, z: 0.207996, w: 0.09468809}
+        inSlope: {x: 0.0083007775, y: 0.48468944, z: -1.6682248, w: -1.3187921}
+        outSlope: {x: 0.0083007775, y: 0.4846894, z: -1.6682247, w: -1.3187921}
+        tangentMode: 1
+      - time: 0.15
+        value: {x: -3.334135E-05, y: 0.9955601, z: 0.0939783, w: 0.0053022904}
+        inSlope: {x: 0.004086892, y: 0.091790564, z: -0.8339715, w: -0.64913803}
+        outSlope: {x: 0.004086892, y: 0.091790564, z: -0.83397144, w: -0.64913803}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: -0.0040027252, y: 0.9950479, z: 0.09841714, w: 0.01333053}
+        inSlope: {x: -0.45979658, y: -0.19180106, z: 1.340248, w: 1.5528177}
+        outSlope: {x: -0.45979658, y: -0.19180106, z: 1.340248, w: 1.5528177}
+        tangentMode: 1
+      - time: 0.21666668
+        value: {x: -0.029868787, y: 0.97800124, z: 0.1789213, w: 0.10299842}
+        inSlope: {x: -0.77199966, y: -0.8103616, z: 2.7535627, w: 2.8303542}
+        outSlope: {x: -0.7719997, y: -0.81036156, z: 2.7535627, w: 2.8303542}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0.04494342, y: 0.9512513, z: 0.25488704, w: 0.16773102}
+        inSlope: {x: 0.0012223196, y: -0.5809934, z: 1.6241235, w: 0.9094101}
+        outSlope: {x: 0.0012223199, y: -0.5809934, z: 1.6241235, w: 0.9094101}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: -0.0050669187, y: 0.9282722, z: 0.3214615, w: 0.18694274}
+        inSlope: {x: 0.44515142, y: -0.11319454, z: 0.31999642, w: 0.03809227}
+        outSlope: {x: 0.44515136, y: -0.11319453, z: 0.31999633, w: 0.03809226}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: -0.0011776568, y: 0.92743164, z: 0.3238273, w: 0.1870963}
+        inSlope: {x: 0.23335592, y: -0.05043273, z: 0.141948, w: 0.009213396}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0011777007, y: 0.9274316, z: 0.32382742, w: -0.18709643}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.0019134417, y: 0.19034384, z: -0.37681994, w: 0.30334708}
+        tangentMode: 1
+      - time: 0.033333335
+        value: {x: 0.0010472555, y: 0.9399391, z: 0.2980469, w: -0.16637765}
+        inSlope: {x: -0.007477972, y: 0.66574925, z: -1.4827098, w: 1.1879766}
+        outSlope: {x: -0.0074779717, y: 0.66574925, z: -1.4827098, w: 1.1879766}
+        tangentMode: 1
+      - time: 0.083333336
+        value: {x: 0.0005960401, y: 0.97353554, z: 0.20799607, w: -0.09468809}
+        inSlope: {x: -0.008300983, y: 0.48469123, z: -1.668226, w: 1.3187959}
+        outSlope: {x: -0.008300983, y: 0.4846912, z: -1.668226, w: 1.3187959}
+        tangentMode: 1
+      - time: 0.15
+        value: {x: 3.3341355E-05, y: 0.9955601, z: 0.09397832, w: -0.0053022904}
+        inSlope: {x: -0.0040868903, y: 0.091790564, z: -0.83397204, w: 0.64913803}
+        outSlope: {x: -0.0040868903, y: 0.091790564, z: -0.833972, w: 0.64913803}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: 0.004002435, y: 0.9950479, z: 0.09841715, w: -0.013330425}
+        inSlope: {x: 0.45979655, y: -0.19180106, z: 1.340248, w: -1.5528176}
+        outSlope: {x: 0.45979655, y: -0.19180106, z: 1.340248, w: -1.5528176}
+        tangentMode: 1
+      - time: 0.21666668
+        value: {x: 0.029868778, y: 0.97800124, z: 0.17892122, w: -0.10299841}
+        inSlope: {x: 0.7720008, y: -0.8103616, z: 2.7535605, w: -2.830358}
+        outSlope: {x: 0.7720008, y: -0.81036156, z: 2.7535605, w: -2.830358}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0.044943452, y: 0.9512513, z: 0.254887, w: -0.16773085}
+        inSlope: {x: -0.0012190925, y: -0.5809916, z: 1.6241267, w: -0.9094011}
+        outSlope: {x: -0.0012190789, y: -0.5809916, z: 1.6241267, w: -0.9094011}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: 0.0050670053, y: 0.9282721, z: 0.32146153, w: -0.18694285}
+        inSlope: {x: -0.44515008, y: -0.11319454, z: 0.31999815, w: -0.038096294}
+        outSlope: {x: -0.44515005, y: -0.11319453, z: 0.31999812, w: -0.038096283}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 0.0011777007, y: 0.9274316, z: 0.32382742, w: -0.18709643}
+        inSlope: {x: -0.23335853, y: -0.05043273, z: 0.14195336, w: -0.0092151845}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 6.683812E-08, y: 0.30070585, z: 0.95371693, w: 1.1854612E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 4.3526565E-08, y: 0.3504431, z: -0.11167645, w: -2.471708E-08}
+        tangentMode: 1
+      - time: 0.050000004
+        value: {x: 7.306859E-08, y: 0.3511684, z: 0.9363123, w: 1.148107E-07}
+        inSlope: {x: 2.019577E-07, y: 1.6474173, z: -0.61960995, w: -1.2879383E-07}
+        outSlope: {x: 2.019577E-07, y: 1.6474172, z: -0.61960995, w: -1.2879383E-07}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: 8.537852E-08, y: 0.45307592, z: 0.891472, w: 1.0597654E-07}
+        inSlope: {x: 1.866667E-07, y: 1.5698032, z: -0.796001, w: -1.5010096E-07}
+        outSlope: {x: 1.866667E-07, y: 1.5698032, z: -0.796001, w: -1.5010096E-07}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: 9.048028E-08, y: 0.49631175, z: 0.8681444, w: 1.0165547E-07}
+        inSlope: {x: -5.4386113E-08, y: -0.46378046, z: 0.26230022, w: 4.7958192E-08}
+        outSlope: {x: -5.4386113E-08, y: -0.46378046, z: 0.26230022, w: 4.7958192E-08}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 8.173968E-08, y: 0.42261827, z: 0.9063078, w: 1.0880782E-07}
+        inSlope: {x: -1.6533525E-07, y: -1.3763899, z: 0.6385731, w: 1.2370371E-07}
+        outSlope: {x: -1.6533525E-07, y: -1.3763899, z: 0.63857317, w: 1.2370371E-07}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: 6.779753E-08, y: 0.3084322, z: 0.9512463, w: 1.1800005E-07}
+        inSlope: {x: -1.14563676E-07, y: -0.92543596, z: 0.30841815, w: 6.7070374E-08}
+        outSlope: {x: -1.14563676E-07, y: -0.92543596, z: 0.30841815, w: 6.7070374E-08}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 6.683812E-08, y: 0.30070585, z: 0.95371693, w: 1.1854612E-07}
+        inSlope: {x: -5.7564673E-08, y: -0.46358094, z: 0.14823689, w: 3.276401E-08}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.47081316, y: 8.5222723E-07, z: 2.066172E-07, w: 0.88223296}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.20546435, y: -4.8454464E-08, z: 1.9817831E-07, w: 0.10913729}
+        tangentMode: 1
+      - time: 0.06666667
+        value: {x: 0.43537658, y: 8.433418E-07, z: 2.403259E-07, w: 0.9002484}
+        inSlope: {x: -0.39907607, y: -1.0539794E-07, z: 3.748639E-07, w: 0.19473912}
+        outSlope: {x: -0.39907607, y: -1.0539794E-07, z: 3.748639E-07, w: 0.19473912}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: 0.46298227, y: 8.503642E-07, z: 2.1415583E-07, w: 0.88636756}
+        inSlope: {x: 1.7483937, y: 4.1257582E-07, z: -1.6861625E-06, w: -0.9283073}
+        outSlope: {x: 1.7483937, y: 4.1257582E-07, z: -1.6861625E-06, w: -0.9283073}
+        tangentMode: 1
+      - time: 0.16666667
+        value: {x: 0.56406075, y: 8.696557E-07, z: 1.1260989E-07, w: 0.82573336}
+        inSlope: {x: 1.77014, y: 2.4140095E-07, z: -1.8642979E-06, w: -1.20919}
+        outSlope: {x: 1.77014, y: 2.4140095E-07, z: -1.864298E-06, w: -1.20919}
+        tangentMode: 1
+      - time: 0.23333335
+        value: {x: 0.6768606, y: 8.768119E-07, z: -1.3523861E-08, w: 0.7361113}
+        inSlope: {x: 0.7742038, y: -5.9975482E-09, z: -9.148532E-07, w: -0.6993201}
+        outSlope: {x: 0.7742038, y: -5.997553E-09, z: -9.148532E-07, w: -0.6993201}
+        tangentMode: 1
+      - time: 0.26666668
+        value: {x: 0.666079, y: 8.769158E-07, z: -7.654011E-10, w: 0.7458812}
+        inSlope: {x: -2.0190704, y: -4.7429538E-08, z: 2.329648E-06, w: 1.727427}
+        outSlope: {x: -2.0190704, y: -4.742954E-08, z: 2.329648E-06, w: 1.727427}
+        tangentMode: 1
+      - time: 0.3
+        value: {x: 0.54703134, y: 8.67167E-07, z: 1.3039681E-07, w: 0.8371121}
+        inSlope: {x: -3.7429795, y: -5.4950135E-07, z: 3.9072647E-06, w: 2.497182}
+        outSlope: {x: -3.7429795, y: -5.4950135E-07, z: 3.9072647E-06, w: 2.497182}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: 0.49104086, y: 8.567671E-07, z: 1.8690143E-07, w: 0.87113655}
+        inSlope: {x: -2.2865448, y: -4.4819262E-07, z: 2.2866109E-06, w: 1.3536246}
+        outSlope: {x: -2.2865448, y: -4.4819262E-07, z: 2.2866109E-06, w: 1.3536246}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 0.47081316, y: 8.5222723E-07, z: 2.066172E-07, w: 0.88223296}
+        inSlope: {x: -1.2136632, y: -2.7239165E-07, z: 1.1829474E-06, w: 0.66578573}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.62578464, y: 4.0103896E-07, z: -7.7066403E-07, w: 0.779996}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.22964714, y: 2.2706102E-07, z: 1.18873224E-07, w: -0.1851797}
+        tangentMode: 1
+      - time: 0.050000004
+        value: {x: -0.658552, y: 4.3361288E-07, z: -7.5281804E-07, w: 0.7525352}
+        inSlope: {x: -1.058743, y: 1.0593715E-06, z: 6.11206E-07, w: -0.92787445}
+        outSlope: {x: -1.058743, y: 1.0593715E-06, z: 6.11206E-07, w: -0.92787445}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: -0.7228473, y: 4.9882397E-07, z: -7.1128744E-07, w: 0.69100785}
+        inSlope: {x: -0.97353655, y: 1.0018568E-06, z: 7.015155E-07, w: -1.016915}
+        outSlope: {x: -0.9735365, y: 1.0018568E-06, z: 7.015155E-07, w: -1.016915}
+        tangentMode: 1
+      - time: 0.15
+        value: {x: -0.7484706, y: 5.2537484E-07, z: -6.919078E-07, w: 0.663168}
+        inSlope: {x: -0.4005039, y: 4.1707952E-07, z: 3.133579E-07, w: -0.44741037}
+        outSlope: {x: -0.4005039, y: 4.1707952E-07, z: 3.133579E-07, w: -0.44741037}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: -0.7287092, y: 5.048669E-07, z: -7.07011E-07, w: 0.6848232}
+        inSlope: {x: 2.811234, y: -2.8708607E-06, z: -1.9143374E-06, w: 2.8057642}
+        outSlope: {x: 2.811234, y: -2.8708607E-06, z: -1.9143374E-06, w: 2.8057642}
+        tangentMode: 1
+      - time: 0.20000002
+        value: {x: -0.6580145, y: 4.330752E-07, z: -7.531275E-07, w: 0.75300527}
+        inSlope: {x: 5.1589394, y: -5.1373518E-06, z: -2.8543004E-06, w: 4.375815}
+        outSlope: {x: 5.1589394, y: -5.1373518E-06, z: -2.8543004E-06, w: 4.375815}
+        tangentMode: 1
+      - time: 0.21666668
+        value: {x: -0.5567445, y: 3.3362176E-07, z: -8.021544E-07, w: 0.83068377}
+        inSlope: {x: 5.563317, y: -5.3925746E-06, z: -2.3365699E-06, w: 3.8486285}
+        outSlope: {x: 5.563317, y: -5.3925746E-06, z: -2.3365699E-06, w: 3.8486285}
+        tangentMode: 1
+      - time: 0.23333335
+        value: {x: -0.4725706, y: 2.5332272E-07, z: -8.3101315E-07, w: 0.8812929}
+        inSlope: {x: 3.438469, y: -3.2667394E-06, z: -1.1112743E-06, w: 1.9880325}
+        outSlope: {x: 3.438469, y: -3.2667394E-06, z: -1.1112743E-06, w: 1.9880325}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0.44212893, y: 2.2473047E-07, z: -8.3919684E-07, w: 0.8969515}
+        inSlope: {x: 0.39702454, y: -3.737285E-07, z: -1.1087568E-07, w: 0.2090842}
+        outSlope: {x: 0.39702457, y: -3.7372854E-07, z: -1.108757E-07, w: 0.20908421}
+        tangentMode: 1
+      - time: 0.3
+        value: {x: -0.5664955, y: 3.4305197E-07, z: -7.98167E-07, w: 0.82406485}
+        inSlope: {x: -3.1048439, y: 3.0011909E-06, z: 1.2619632E-06, w: -2.0985303}
+        outSlope: {x: -3.1048436, y: 3.0011906E-06, z: 1.2619632E-06, w: -2.0985303}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: -0.61063296, y: 3.8610898E-07, z: -7.7825126E-07, w: 0.79191375}
+        inSlope: {x: -1.7786741, y: 1.7396093E-06, z: 8.250882E-07, w: -1.3220657}
+        outSlope: {x: -1.7786741, y: 1.7396093E-06, z: 8.250882E-07, w: -1.3220657}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: -0.62578464, y: 4.0103896E-07, z: -7.7066403E-07, w: 0.779996}
+        inSlope: {x: -0.90910167, y: 8.957997E-07, z: 4.5523436E-07, w: -0.71506685}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001/arm.L.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.3244695E-08, y: 0.30070588, z: 0.95371693, w: 1.3544407E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 4.9802132E-08, y: 0.35044488, z: -0.11167645, w: -5.0246736E-09}
+        tangentMode: 1
+      - time: 0.050000004
+        value: {x: 2.0453212E-08, y: 0.35116845, z: 0.9363123, w: 1.3454435E-07}
+        inSlope: {x: 2.3677572E-07, y: 1.6474137, z: -0.61960995, w: -3.621892E-08}
+        outSlope: {x: 2.3677572E-07, y: 1.6474136, z: -0.61960995, w: -3.621892E-08}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: 3.5282902E-08, y: 0.45307595, z: 0.8914719, w: 1.314368E-07}
+        inSlope: {x: 2.313969E-07, y: 1.5698005, z: -0.796001, w: -6.1886716E-08}
+        outSlope: {x: 2.3139688E-07, y: 1.5698005, z: -0.796001, w: -6.1886716E-08}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: 4.1695536E-08, y: 0.49631175, z: 0.8681444, w: 1.2954536E-07}
+        inSlope: {x: -6.9125996E-08, y: -0.46378046, z: 0.26230025, w: 2.1896497E-08}
+        outSlope: {x: -6.9125996E-08, y: -0.46378046, z: 0.26230022, w: 2.1896497E-08}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 3.081037E-08, y: 0.42261827, z: 0.9063078, w: 1.3255655E-07}
+        inSlope: {x: -2.0121946E-07, y: -1.3763899, z: 0.6385731, w: 4.635865E-08}
+        outSlope: {x: -2.0121946E-07, y: -1.3763899, z: 0.63857317, w: 4.635865E-08}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: 1.4342937E-08, y: 0.30843222, z: 0.9512463, w: 1.3533217E-07}
+        inSlope: {x: -1.3189549E-07, y: -0.92544043, z: 0.30841815, w: 1.5065915E-08}
+        outSlope: {x: -1.3189549E-07, y: -0.92544043, z: 0.30841815, w: 1.5065915E-08}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 1.3244695E-08, y: 0.30070588, z: 0.95371693, w: 1.3544407E-07}
+        inSlope: {x: -6.5894554E-08, y: -0.46358094, z: 0.14823689, w: 6.7137824E-09}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.47081327, y: -7.7509884E-07, z: -2.4777736E-07, w: 0.8822329}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.2054715, y: 5.7997337E-08, z: -1.8022318E-07, w: 0.109140866}
+        tangentMode: 1
+      - time: 0.06666667
+        value: {x: 0.43537658, y: -7.646384E-07, z: -2.7838817E-07, w: 0.9002484}
+        inSlope: {x: -0.39907607, y: 1.2242198E-07, z: -3.3997512E-07, w: 0.19473912}
+        outSlope: {x: -0.39907607, y: 1.2242198E-07, z: -3.3997512E-07, w: 0.19473912}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: 0.46298227, y: -7.728743E-07, z: -2.546315E-07, w: 0.88636756}
+        inSlope: {x: 1.7483919, y: -4.937278E-07, z: 1.5333101E-06, w: -0.9283091}
+        outSlope: {x: 1.7483919, y: -4.937278E-07, z: 1.5333101E-06, w: -0.9283091}
+        tangentMode: 1
+      - time: 0.16666667
+        value: {x: 0.56406075, y: -7.974667E-07, z: -1.6192224E-07, w: 0.82573336}
+        inSlope: {x: 1.77014, y: -3.4711437E-07, z: 1.709545E-06, w: -1.20919}
+        outSlope: {x: 1.77014, y: -3.4711437E-07, z: 1.709545E-06, w: -1.20919}
+        tangentMode: 1
+      - time: 0.23333335
+        value: {x: 0.6768607, y: -8.12458E-07, z: -4.5649756E-08, w: 0.7361111}
+        inSlope: {x: 0.7742038, y: -5.513927E-08, z: 8.47169E-07, w: -0.6993201}
+        outSlope: {x: 0.7742038, y: -5.5139267E-08, z: 8.471691E-07, w: -0.6993201}
+        tangentMode: 1
+      - time: 0.26666668
+        value: {x: 0.6660791, y: -8.117078E-07, z: -5.74657E-08, w: 0.74588114}
+        inSlope: {x: -2.0190668, y: 1.984476E-07, z: -2.1531293E-06, w: 1.7274234}
+        outSlope: {x: -2.0190668, y: 1.984476E-07, z: -2.1531293E-06, w: 1.7274234}
+        tangentMode: 1
+      - time: 0.3
+        value: {x: 0.5470314, y: -7.9398325E-07, z: -1.7822035E-07, w: 0.83711207}
+        inSlope: {x: -3.7429838, y: 7.678142E-07, z: -3.5800424E-06, w: 2.4971871}
+        outSlope: {x: -3.7429838, y: 7.678142E-07, z: -3.5800426E-06, w: 2.4971871}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: 0.49104083, y: -7.806088E-07, z: -2.2983015E-07, w: 0.8711366}
+        inSlope: {x: -2.286543, y: 5.6653204E-07, z: -2.0867096E-06, w: 1.3536246}
+        outSlope: {x: -2.286543, y: 5.6653204E-07, z: -2.0867096E-06, w: 1.3536246}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 0.47081327, y: -7.7509884E-07, z: -2.4777736E-07, w: 0.8822329}
+        inSlope: {x: -1.2136543, y: 3.305971E-07, z: -1.076834E-06, w: 0.6657786}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.62578464, y: -4.0103996E-07, z: 7.706632E-07, w: 0.779996}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: -0.22965072, y: -2.2706443E-07, z: -1.18873224E-07, w: -0.18518327}
+        tangentMode: 1
+      - time: 0.050000004
+        value: {x: -0.658552, y: -4.3361385E-07, z: 7.528172E-07, w: 0.7525352}
+        inSlope: {x: -1.0587394, y: -1.0593664E-06, z: -6.112077E-07, w: -0.92787266}
+        outSlope: {x: -1.0587394, y: -1.0593664E-06, z: -6.112077E-07, w: -0.92787266}
+        tangentMode: 1
+      - time: 0.116666675
+        value: {x: -0.7228473, y: -4.988249E-07, z: 7.112865E-07, w: 0.69100785}
+        inSlope: {x: -0.97353655, y: -1.0018551E-06, z: -7.015172E-07, w: -1.016915}
+        outSlope: {x: -0.9735365, y: -1.0018551E-06, z: -7.015172E-07, w: -1.016915}
+        tangentMode: 1
+      - time: 0.15
+        value: {x: -0.74847066, y: -5.2537575E-07, z: 6.919068E-07, w: 0.66316795}
+        inSlope: {x: -0.4005057, y: -4.1707952E-07, z: -3.133596E-07, w: -0.44741216}
+        outSlope: {x: -0.4005057, y: -4.1707952E-07, z: -3.133596E-07, w: -0.44741216}
+        tangentMode: 1
+      - time: 0.18333334
+        value: {x: -0.7287092, y: -5.048678E-07, z: 7.070101E-07, w: 0.6848232}
+        inSlope: {x: 2.811236, y: 2.870857E-06, z: 1.9143426E-06, w: 2.8057659}
+        outSlope: {x: 2.811236, y: 2.870857E-06, z: 1.9143426E-06, w: 2.8057659}
+        tangentMode: 1
+      - time: 0.20000002
+        value: {x: -0.6580145, y: -4.3307617E-07, z: 7.5312664E-07, w: 0.75300527}
+        inSlope: {x: 5.158943, y: 5.137351E-06, z: 2.8543088E-06, w: 4.3758183}
+        outSlope: {x: 5.158943, y: 5.137351E-06, z: 2.8543088E-06, w: 4.3758183}
+        tangentMode: 1
+      - time: 0.21666668
+        value: {x: -0.5567444, y: -3.336227E-07, z: 8.0215375E-07, w: 0.8306839}
+        inSlope: {x: 5.563316, y: 5.3925687E-06, z: 2.336575E-06, w: 3.8486269}
+        outSlope: {x: 5.563316, y: 5.3925687E-06, z: 2.336575E-06, w: 3.8486269}
+        tangentMode: 1
+      - time: 0.23333335
+        value: {x: -0.47257063, y: -2.533239E-07, z: 8.3101247E-07, w: 0.8812928}
+        inSlope: {x: 3.438465, y: 3.266733E-06, z: 1.1112761E-06, w: 1.9880289}
+        outSlope: {x: 3.438465, y: 3.266733E-06, z: 1.1112761E-06, w: 1.9880289}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0.44212893, y: -2.2473162E-07, z: 8.391963E-07, w: 0.8969515}
+        inSlope: {x: 0.39702454, y: 3.737286E-07, z: 1.1087909E-07, w: 0.2090861}
+        outSlope: {x: 0.39702457, y: 3.7372848E-07, z: 1.10879114E-07, w: 0.209086}
+        tangentMode: 1
+      - time: 0.3
+        value: {x: -0.56649536, y: -3.4305293E-07, z: 7.981663E-07, w: 0.82406497}
+        inSlope: {x: -3.1048415, y: -3.0011845E-06, z: -1.2619666E-06, w: -2.0985303}
+        outSlope: {x: -3.1048417, y: -3.0011847E-06, z: -1.2619666E-06, w: -2.0985303}
+        tangentMode: 1
+      - time: 0.3166667
+        value: {x: -0.610633, y: -3.8611003E-07, z: 7.7825047E-07, w: 0.7919137}
+        inSlope: {x: -1.7786777, y: -1.7396101E-06, z: -8.250933E-07, w: -1.3220693}
+        outSlope: {x: -1.7786777, y: -1.7396101E-06, z: -8.250933E-07, w: -1.3220693}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: -0.62578464, y: -4.0103996E-07, z: 7.706632E-07, w: 0.779996}
+        inSlope: {x: -0.9090981, y: -8.957963E-07, z: -4.5523777E-07, w: -0.7150633}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001/arm.R.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.65328145, y: -0.270598, z: 0.2705981, w: 0.6532815}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.65328145, y: -0.270598, z: 0.2705981, w: 0.6532815}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.3826834, y: -2.8147666E-08, z: 0.92387956, w: 1.1357391E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.3826834, y: -2.8147666E-08, z: 0.92387956, w: 1.1357391E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L/jet.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.65328145, y: 0.270598, z: -0.2705981, w: 0.6532815}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.65328145, y: 0.270598, z: -0.2705981, w: 0.6532815}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.3826834, y: -2.8147666E-08, z: 0.92387956, w: -1.1357391E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.3826834, y: -2.8147666E-08, z: 0.92387956, w: -1.1357391E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R/jet.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 9.549626E-16, z: -7.54979E-08, w: 1.3315805E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 9.549626E-16, z: -7.54979E-08, w: 1.3315805E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.7071068, y: 5.338507E-08, z: -5.3385072E-08, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.7071068, y: 5.338507E-08, z: -5.3385072E-08, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition/tireRotate
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -5.4185877E-13, z: 0.0069460664}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: 0.008904325}
+        tangentMode: 1
+      - time: 0.016666668
+        value: {x: -0, y: -5.4185877E-13, z: 0.0070944717}
+        inSlope: {x: 0, y: 0, z: 0.008904325}
+        outSlope: {x: -0, y: -0, z: 0.021782147}
+        tangentMode: 1
+      - time: 0.05
+        value: {x: -0, y: -5.4185877E-13, z: 0.007746067}
+        inSlope: {x: 0, y: 0, z: 0.017313553}
+        outSlope: {x: -0, y: -0, z: 0.00922086}
+        tangentMode: 1
+      - time: 0.1
+        value: {x: -0, y: -5.4185877E-13, z: 0.007899748}
+        inSlope: {x: 0, y: 0, z: -0.0027791264}
+        outSlope: {x: -0, y: -0, z: -0.009220898}
+        tangentMode: 1
+      - time: 0.23333333
+        value: {x: -0, y: -5.4185877E-13, z: 0.005997294}
+        inSlope: {x: 0, y: 0, z: -0.009645546}
+        outSlope: {x: -0, y: -0, z: -0.0030736688}
+        tangentMode: 1
+      - time: 0.26666668
+        value: {x: -0, y: -5.4185877E-13, z: 0.005992385}
+        inSlope: {x: 0, y: 0, z: 0.0027791236}
+        outSlope: {x: -0, y: -0, z: 0.0092209065}
+        tangentMode: 1
+      - time: 0.28333333
+        value: {x: -0, y: -5.4185877E-13, z: 0.006146067}
+        inSlope: {x: 0, y: 0, z: 0.0092209065}
+        outSlope: {x: -0, y: -0, z: 0.0173135}
+        tangentMode: 1
+      - time: 0.31666666
+        value: {x: -0, y: -5.4185877E-13, z: 0.006797661}
+        inSlope: {x: 0, y: 0, z: 0.02178217}
+        outSlope: {x: -0, y: -0, z: 0.008904318}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: -0, y: -5.4185877E-13, z: 0.0069460664}
+        inSlope: {x: 0, y: 0, z: 0.008904318}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.0047003645, y: 0.0067970357, z: 0.007226394}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.0047003645, y: 0.0067970357, z: 0.007226394}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.007603638, y: 0.006917942, z: 0.00089587754}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.007603638, y: 0.006917942, z: 0.00089587754}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L/jet.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0047003645, y: 0.0067970357, z: 0.007226394}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.0047003645, y: 0.0067970357, z: 0.007226394}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.007603638, y: 0.006917942, z: 0.00089587754}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.007603638, y: 0.006917942, z: 0.00089587754}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R/jet.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.0012239607, y: 0.0064257467, z: 0.008082501}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.0012239607, y: 0.0064257467, z: 0.008082501}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0012239607, y: 0.0064257467, z: 0.008082501}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.0012239607, y: 0.0064257467, z: 0.008082501}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.008248411, y: 0.0020768207, z: 0.0056141084}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0.008248411, y: 0.0020768207, z: 0.0056141084}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -9.562121E-10, y: 0.0038810004, z: 1.091611E-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -9.562121E-10, y: 0.0038810004, z: 1.091611E-09}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -3.247149E-10, y: 0.0029846737, z: -3.3684727E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -3.247149E-10, y: 0.0029846737, z: -3.3684727E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001/arm.L.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.008248411, y: 0.0020768207, z: 0.0056141084}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 0.008248411, y: 0.0020768207, z: 0.0056141084}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.0621836E-10, y: 0.0038810004, z: 1.306828E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -4.0621836E-10, y: 0.0038810004, z: 1.306828E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 4.0673995E-10, y: 0.0029846749, z: -1.4483248E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 4.0673995E-10, y: 0.0029846749, z: -1.4483248E-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001/arm.R.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: 0.0049460665, z: 0.006946066}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: -0, y: 0.0049460665, z: 0.006946066}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.8946246E-17, y: 0.0049460665, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1.8946246E-17, y: 0.0049460665, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition/tireRotate
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 100, y: 100, z: 100}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 100, y: 100, z: 100}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.L/jet.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/wing.R/jet.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/antenna.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.L/arm.L.001/arm.L.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/root/arm.R/arm.R.001/arm.R.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      - time: 0.36666667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: motobug rig/tirePosition/tireRotate
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2065407719
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274001152
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2984282723
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2901776682
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1369571350
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2249746105
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1459266633
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1928513080
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1760745020
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2295678998
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2398456296
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2737119637
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1962587275
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1858861925
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274001152
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2984282723
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2901776682
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1369571350
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2249746105
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1459266633
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1928513080
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1760745020
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 13154293
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1346118120
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2295678998
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2065407719
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2398456296
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2737119637
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1962587275
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1858861925
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 13154293
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1346118120
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2295678998
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2065407719
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2398456296
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2737119637
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1962587275
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1858861925
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1274001152
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2984282723
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2901776682
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1369571350
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2249746105
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1459266633
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1928513080
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1760745020
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 13154293
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1346118120
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.33333334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

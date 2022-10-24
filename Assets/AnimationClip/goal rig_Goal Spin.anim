@@ -2,11 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
-  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: goal rig|Goal Spin
+  m_Name: goal rig_Goal Spin
+  serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -287,7 +287,7 @@ AnimationClip:
         outSlope: {x: -0.2584498, y: -0.0031506764, z: -0.0031488882, w: -0.25844976}
         tangentMode: 0
       - time: 3.0000002
-        value: {x: -1.5065115E-06, y: -0.7071068, z: -0.7071067, w: -1.5065114E-06}
+        value: {x: -0.0000015065115, y: -0.7071068, z: -0.7071067, w: -0.0000015065114}
         inSlope: {x: -0.25842565, y: -0.0007832058, z: -0.0007832058, w: -0.25842562}
         outSlope: {x: -0.25842565, y: -0.0007832058, z: -0.0007832058, w: -0.25842562}
         tangentMode: 0

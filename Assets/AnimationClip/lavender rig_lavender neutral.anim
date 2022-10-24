@@ -2,11 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
-  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: lavender rig|lavender neutral
+  m_Name: lavender rig_lavender neutral
+  serializedVersion: 6
   m_Legacy: 1
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -66,12 +66,12 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -9.415697E-08, y: 0.7071068, z: 0.7071067, w: -9.415696E-08}
+        value: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       - time: 0.016666668
-        value: {x: -9.415697E-08, y: 0.7071068, z: 0.7071067, w: -9.415696E-08}
+        value: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
@@ -83,12 +83,12 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -9.415697E-08, y: 0.7071068, z: 0.7071067, w: -9.415696E-08}
+        value: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
       - time: 0.016666668
-        value: {x: -9.415697E-08, y: 0.7071068, z: 0.7071067, w: -9.415696E-08}
+        value: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
@@ -275,7 +275,7 @@ AnimationClip:
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
-    m_Center: {x: 0, y: 1.8499998, z: 2.3841858E-07}
+    m_Center: {x: 0, y: 1.8499998, z: 0.00000023841858}
     m_Extent: {x: 1.3000001, y: 1.8499998, z: 0.94669986}
   m_ClipBindingConstant:
     genericBindings: []

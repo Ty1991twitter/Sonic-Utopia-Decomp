@@ -6,8 +6,9 @@ So, Sonic Utopia's been out for a little while and I got bored so I said why don
 
 ## Requirements
 
-- [Unity 5.4.1 Editor](https://download.unity3d.com/download_unity/649f48bbbf0f/Windows64EditorInstaller/UnitySetup64-5.4.1f1.exe)
-
+- If you're on a 64 bit windows download this: [Unity 5.4.1 Editor 64 bit](https://download.unity3d.com/download_unity/649f48bbbf0f/Windows64EditorInstaller/UnitySetup64-5.4.1f1.exe)
+- 
+- If you're on 32 bit windows download this: [Unity 5.4.1 Editor 32 bit](https://download.unity3d.com/download_unity/649f48bbbf0f/Windows32EditorInstaller/UnitySetup32-5.4.1f1.exe)
 
 ## Credits
 

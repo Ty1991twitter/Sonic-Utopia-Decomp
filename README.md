@@ -6,12 +6,12 @@ So, Sonic Utopia's been out for a little while and I got bored so I said why don
 
 ## Requirements
 
-- [Unity 5.4.1 Editor] (https://download.unity3d.com/download_unity/649f48bbbf0f/Windows64EditorInstaller/UnitySetup64-5.4.1f1.exe)
+- [Unity 5.4.1 Editor](https://download.unity3d.com/download_unity/649f48bbbf0f/Windows64EditorInstaller/UnitySetup64-5.4.1f1.exe)
 
 
 ## Credits
 
-- [Ty_1991] (https://twitter.com/Ty_1991) - The Decomp
+- [Ty_1991](https://twitter.com/Ty_1991) - The Decomp
 
 - Sonic Utopia Team - This beautiful fangame
 
@@ -19,7 +19,7 @@ So, Sonic Utopia's been out for a little while and I got bored so I said why don
 
 ## Go play the actual game here
 
-- [Sonic Utopia] (https://sonicfangameshq.com/forums/showcase/sonic-utopia-early-demo.33/)
+- [Sonic Utopia](https://sonicfangameshq.com/forums/showcase/sonic-utopia-early-demo.33/)
 
 # If any of the devs want me to take this down contact me at Retro_Ty#5576 on discord
 

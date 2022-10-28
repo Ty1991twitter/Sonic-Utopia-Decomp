@@ -4,6 +4,8 @@ Hello and welcome to the Sonic Utopia Decomp Repo
 
 So, Sonic Utopia's been out for a little while and I got bored so I said why don't I decompile it so here it is!
 
+THIS IS STILL A WORK IN PROGRESS. I HAVE TO REMAKE ALOT OF SHIT.
+
 ## Requirements
 
 - If you're on a 64 bit windows download this: [Unity 5.4.1 Editor 64 bit](https://download.unity3d.com/download_unity/649f48bbbf0f/Windows64EditorInstaller/UnitySetup64-5.4.1f1.exe)
